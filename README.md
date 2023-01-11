@@ -17,7 +17,7 @@ Run django admin
 
 
 ### STEP 3:
-create users in the Employee link under'myapp'
+Create users in the Employee link under'myapp'
 
 
 ## PROGRAM
